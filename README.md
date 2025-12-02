@@ -169,7 +169,7 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 
 ### MIT License
 
-Copyright (c) 2025 Shaun Dunmall
+Copyright (c) 2025 VibeCoder01
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
